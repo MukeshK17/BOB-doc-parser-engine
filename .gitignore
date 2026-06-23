@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Data Files
+/data/
+*.csv
+*.xlsx
+*.json
+
+# Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
